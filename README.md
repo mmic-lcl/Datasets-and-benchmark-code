@@ -10,6 +10,8 @@ Download Link: https://pan.baidu.com/s/1FClmX0SH3WarcczkEQbmwA Code:ps8j
 Baidu Pan, Download Link: https://pan.baidu.com/s/1zaR6aXh9PVQs063Q_b9zQg Code:ajma
 
 Dubox, Download Link: https://dubox.com/s/1lhh-1QdJIKD7LDqxRgYrOA Code:67h7
+### LasHeR toolkit
+Download Link: https://pan.baidu.com/s/1LRIceZ62x5CHobpyZcGxEQ Code:mmic
 ### RGBT234 toolkit
 Download Link: https://pan.baidu.com/s/1UksOGtD2yl6k8mtB-Wr39A Code:4f68
 ### RGBT210 toolkit
