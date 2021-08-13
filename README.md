@@ -1,4 +1,4 @@
-# Datasets-and-benchmark-code including RGBT tracking and RGBT saliency
+# Datasets-and-benchmark-code including RGBT tracking and RGBT Salient Object Detection
 ## RGBT Tracking Datasets and Benchmark code
 ### RGBT234 dataset
 Download Link: https://pan.baidu.com/s/1weaiBh0_yH2BQni5eTxHgg Code:qvsq
