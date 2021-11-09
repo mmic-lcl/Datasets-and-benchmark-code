@@ -10,7 +10,7 @@
 | ------------- | ------------- | ------------- | ------------- |------------- |
 
 | Algorithm | [MANet](https://github.com/Alexadlu/MANet) | [MANet++](https://github.com/Alexadlu/MANet_pp) |[DAFNet](https://github.com/mjt1312/DAFNet)|[MFG](https://github.com/hyzcn/MFG_RGBT_Tracking_PyTorch)| [MFDIMP](https://github.com/zhanglichao/end2end_rgbt_tracking) |[ADRNet](https://github.com/zhang-pengyu/ADRNet) |[JMMAC](https://github.com/zhang-pengyu/JMMAC)|...|
-| ------------- | ------------- | ------------- | ------------- |------------- |------------- |------------- |------------- |
+| ------------- | ------------- | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
 
 
 
