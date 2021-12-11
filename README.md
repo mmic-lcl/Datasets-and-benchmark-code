@@ -16,7 +16,7 @@
 | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
 
 ## More code will gradually open source
-MANet| DAFNet| CAT|  MANet_PP|  DMCNet ... 
+MANet--DAFNet--CAT--MANet_PP--DMCNet ... 
 
 code link：https://github.com/Alexadlu
 
