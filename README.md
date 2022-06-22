@@ -1,4 +1,4 @@
-# Datasets-and-benchmark-code including RGBT Tracking, RGBT Salient Object Detection and Tiny Object Tracking
+# Datasets-and-benchmark-code 
 
 ## RGBT Tracking Datasets and Benchmark code
 
