@@ -39,3 +39,7 @@ Download Link: [https://pan.baidu.com/s/1ksuUr3cr6_-fZAsSUp0n0w](https://pan.bai
 Download Link[Baidu]: https://pan.baidu.com/s/1eH9JoObOjuU3VFPT1yYHaw Code:pfsm
 
 Download Link[Google Drive]: https://drive.google.com/drive/folders/19WLeBytRQ8IkE0Cf-s6Ejzcg9WJGBltE?usp=sharing
+
+## Hand Hygiene Assessment Dataset
+### HHA300 dataset
+Download Link[Baidu]: https://pan.baidu.com/s/1fbHvs8kvkMulnVtVGFDl_A Code:mmic
