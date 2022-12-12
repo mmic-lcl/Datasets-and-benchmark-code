@@ -43,3 +43,7 @@ Download Link[Google Drive]: https://drive.google.com/drive/folders/19WLeBytRQ8I
 ## Hand Hygiene Assessment Dataset
 ### HHA300 dataset
 Download Link[Baidu]: https://pan.baidu.com/s/1fbHvs8kvkMulnVtVGFDl_A Code:mmic
+
+## Enlarged License Plate Recognition Benchmark Dataset
+### ELPR Dataset
+Download Link[Baidu]: https://pan.baidu.com/s/1-hhWfJaWtociFWcfR7pTrA Code:4fvf
