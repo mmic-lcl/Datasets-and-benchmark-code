@@ -58,3 +58,8 @@ Download Link[Baidu]: https://pan.baidu.com/s/1AZ_Sas4tcSYxE9JToDTe_w?pwd=4dsm C
 
 Download Link[Google Drive]: https://drive.google.com/file/d/1Z_o0leXM5t5obNV1L8ytcCHIcjw5spbg/view?usp=share_link
 
+## Text-to-Image Vehicle Re-identification Dataset
+### T2I VeRi Dataset
+Download Link[Baidu]: https://pan.baidu.com/s/1QVwHQw2S79LkC8dASD2Gvw Code:h4ec
+
+Download Link[Google Drive]: https://drive.google.com/file/d/1tFmrQzTqltxMGPN71P4nSPs6Of23FGYV/view?usp=share_link
