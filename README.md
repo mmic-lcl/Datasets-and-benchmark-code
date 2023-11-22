@@ -57,6 +57,10 @@ Download Link[Baidu]: https://pan.baidu.com/s/1AZ_Sas4tcSYxE9JToDTe_w?pwd=4dsm C
 
 Download Link[Google Drive]: https://drive.google.com/file/d/1Z_o0leXM5t5obNV1L8ytcCHIcjw5spbg/view?usp=share_link
 
+OGSOD-1.0 (Rotated Label) Download Link[Baidu]: https://pan.baidu.com/s/1-5AO9pkH9j-MmK29cM8nOQ?pwd=hglx Code:hglx
+### OSPRC Dataset
+Download Link[Baidu]: https://pan.baidu.com/s/13cZ-DzT9EuvQBOnycgC7NA?pwd=8mv0 Code:8mv0
+
 ## Text-to-Image Vehicle Re-identification Dataset
 ### T2I VeRi Dataset
 Download Link[Baidu]: https://pan.baidu.com/s/1QVwHQw2S79LkC8dASD2Gvw Code:h4ec
