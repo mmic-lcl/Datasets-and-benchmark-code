@@ -14,7 +14,7 @@
 | CMOTB-Hard | [Download](https://pan.baidu.com/s/1hFjmVGNoTKrpkHUqs5ziaA) | viq4 |
 | Results | [Download](https://pan.baidu.com/s/17YPR9y3XfQpSONfXL_RHCQ) | xxv0 |
 | Tool-Kit | [Download](https://pan.baidu.com/s/1GNnZV1i1ck0UcIno0SQTlQ) | avsw |
-| Code | Code of MArMOT and MAFNet will be released soon. | - |
+| Code | Code of MArMOT/MAFNet/ProtoTrack will be released soon. | - |
 
 ## RGBT Salient Object Detection Datasets and Benchmark Code
 | Dataset | Download Link | Code |
