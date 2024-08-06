@@ -51,6 +51,11 @@
 | VGTSR (Baidu) | [Download](https://pan.baidu.com/s/1eH9JoObOjuU3VFPT1yYHaw) | pfsm |
 | VGTSR (Google Drive) | [Download](https://drive.google.com/drive/folders/19WLeBytRQ8IkE0Cf-s6Ejzcg9WJGBltE?usp=sharing) | - |
 
+## Visible Image Guided Thermal Image Super-Resolution Dataset-2.0
+| Dataset | Download Link | Code |
+| --- | --- | --- |
+| VGTSR2.0 (Baidu) | [Download](https://pan.baidu.com/s/1l05hxPwtz5HIYqhQgPtCNQ?pwd=tgrs) | tgrs |
+
 ## Hand Hygiene Assessment Dataset
 | Dataset | Download Link | Code |
 | --- | --- | --- |
