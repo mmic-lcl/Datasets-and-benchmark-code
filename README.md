@@ -94,6 +94,11 @@
 | --- | --- | --- |
 | HiAl (Baidu) | [Download](https://pan.baidu.com/s/1ZvdAstzQ9FCdGlPlBDUpJg) | n764 |
 
+## UAV Video Vehicle Detection：Benchmark and Baseline
+| Dataset and Open Source Code| Download Link | Code |
+| --- | --- | --- |
+| VVD and CRNet(Baidu) | [Download](https://pan.baidu.com/s/1VGp9y3R-L-_vJPpDN0sSlA) | hwm5 |
+
 ## OGSSR Dataset
 | Dataset | Download Link | Code |
 | --- | --- | --- |
